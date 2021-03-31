@@ -1,0 +1,34 @@
+What is Typescript? 
+- Superset of js developed by microsoft (inherits all features of js + more)
+- Comiles to plain js
+- easily integrated into JS projects
+- designed for development of large projects
+
+What does it offer?
+- Static type checking (i.e. what type is this var suppose to be?) (optional)
+- class based objects
+- makes js more modular
+- es6 features (can use let & const)
+- stynax closer to java and other high level languages
+
+Static Type checking
+- optional
+- helps prevent bugs
+- makes code more readable and descriptive
+
+TypeScript Types:
+- String, num, bool, arr
+- Any, Void, Null, Tuple, Enum, Generics
+
+Class Based objects
+- Object oriented programming in JS
+- No Prototypes
+- Encapsulation 
+- Inheritance
+- Modifiers
+
+TypeScript Comiler (tsc)
+- Written in TypeScript itself
+- Comiles ts files to js
+- Installed as a NPM package 
+- Supports ES6 Syntax
