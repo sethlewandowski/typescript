@@ -1,7 +1,15 @@
 var myString;
 var myNum;
 var myBool;
+var strArr;
+var numArr;
+var boolArr;
+var boolArr2;
+var myVoid = null;
+var myNull = null;
 myString = 'Im seth';
 myNum = 22;
 myBool = true;
-console.log(myString);
+strArr = ['hello', 'world'];
+numArr = [1, 2, 3];
+console.log(myVoid);
